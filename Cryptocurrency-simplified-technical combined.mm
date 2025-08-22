@@ -5,8 +5,8 @@
 </bookmarks>
 <node TEXT="Cryptocurrency" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="Freemind_Link_1513112588" CREATED="1153430895318" MODIFIED="1755742144581" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="10 pt" SHAPE_VERTICAL_MARGIN="10 pt" VGAP_QUANTITY="3 pt" CHILD_NODES_LAYOUT="AUTO" TEXT_SHORTENED="true">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<hook NAME="MapStyle" background="#fbf1c7ff" zoom="0.6830134">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" auto_compact_layout="false" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/light_gruvbox_template.mm" fit_to_viewport="false" show_icons="BESIDE_NODES" showTagCategories="false"/>
+<hook NAME="MapStyle" background="#fbf1c7ff" zoom="0.56447387">
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" auto_compact_layout="true" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/light_gruvbox_template.mm" fit_to_viewport="false" show_icons="BESIDE_NODES" showTagCategories="false"/>
     <tags category_separator="::"/>
 
 <map_styles>
@@ -84,7 +84,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="Introduction" POSITION="bottom_or_right" ID="ID_1476859609" CREATED="1755578453021" MODIFIED="1755744248452" HGAP_QUANTITY="-154.74999 pt" VSHIFT_QUANTITY="1469.24996 pt" TEXT_SHORTENED="true">
+<node TEXT="Introduction" POSITION="bottom_or_right" ID="ID_1476859609" CREATED="1755578453021" MODIFIED="1755830176572" HGAP_QUANTITY="-541.74998 pt" VSHIFT_QUANTITY="6101.24982 pt" TEXT_SHORTENED="true">
 <node TEXT="Simplified" ID="ID_6710380" CREATED="1755744261446" MODIFIED="1755744263437">
 <node TEXT="Fiat Currency" ID="ID_1095269874" CREATED="1755578471041" MODIFIED="1755742144573" TEXT_SHORTENED="true">
 <node TEXT="Money that is" ID="ID_623823916" CREATED="1755583495783" MODIFIED="1755742144573" TEXT_SHORTENED="true">
@@ -152,8 +152,8 @@
 </node>
 <node TEXT="Technical" ID="ID_689000664" CREATED="1755741289830" MODIFIED="1755742144576" VGAP_QUANTITY="3 pt" TEXT_SHORTENED="true">
 <node TEXT="How do they work?" POSITION="bottom_or_right" ID="ID_384825038" CREATED="1755660252649" MODIFIED="1755742156620" HGAP_QUANTITY="35.75 pt" VSHIFT_QUANTITY="-39.75 pt" VGAP_QUANTITY="3 pt" CHILD_NODES_LAYOUT="AUTO" TEXT_SHORTENED="true">
-<node TEXT="How Cryptocurrency transactions operate on the blockchain" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_253124405" CREATED="1755660554966" MODIFIED="1755742159830">
-<hook URI="Cryptocurrency_files/png-250820-112911893-17223627450978335343.png" SIZE="0.807537" NAME="ExternalObject"/>
+<node TEXT="How Cryptocurrency transactions operate on the blockchain" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_253124405" CREATED="1755660554966" MODIFIED="1755829689057">
+<hook URI="Cryptocurrency-simplified-technical%20combined_files/png-250821-141717129-3922888437363961163.png" SIZE="0.63829786" NAME="ExternalObject"/>
 </node>
 </node>
 <node TEXT="Buying and Selling" LOCALIZED_STYLE_REF="default" POSITION="bottom_or_right" ID="ID_1906708672" CREATED="1755578416852" MODIFIED="1755742144576" HGAP_QUANTITY="48.5 pt" VSHIFT_QUANTITY="-51.75 pt" CHILD_NODES_LAYOUT="AUTO" TEXT_SHORTENED="true">
@@ -443,7 +443,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Mining" POSITION="bottom_or_right" ID="ID_926227091" CREATED="1755577864274" MODIFIED="1755828960606" HGAP_QUANTITY="202.99999 pt" VSHIFT_QUANTITY="-465.74998 pt" CHILD_NODES_LAYOUT="AUTO" TEXT_SHORTENED="true">
+<node TEXT="Mining" POSITION="bottom_or_right" ID="ID_926227091" CREATED="1755577864274" MODIFIED="1755830170993" HGAP_QUANTITY="-267.24999 pt" VSHIFT_QUANTITY="-6723.7498 pt" CHILD_NODES_LAYOUT="AUTO" TEXT_SHORTENED="true">
 <node TEXT="Simplified" ID="ID_1205166005" CREATED="1755744378296" MODIFIED="1755744381174">
 <node TEXT="Companies" POSITION="bottom_or_right" ID="ID_143159579" CREATED="1755578682621" MODIFIED="1755742144579" TEXT_SHORTENED="true">
 <node TEXT="Some companies engage in mining with thousands of rigs in a warehouse&#xa; - Rigs kept at optimal temp to maintain efficiency&#xa; - Removing dust helps rigs stay at a low temp" ID="ID_480062792" CREATED="1755591313148" MODIFIED="1755742144578" TEXT_SHORTENED="true"/>
@@ -455,18 +455,29 @@
 </node>
 </node>
 </node>
-<node TEXT="Technical" ID="ID_623719895" CREATED="1755744381374" MODIFIED="1755744382778"/>
+<node TEXT="Technical" ID="ID_623719895" CREATED="1755744381374" MODIFIED="1755744382778">
+<node ID="ID_107145547" CREATED="1755829166287" MODIFIED="1755829166287"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div id="WACViewPanel_ClipboardElement" contenteditable="false" class="WACEditing EditMode EditingSurfaceBody FireFox WACViewPanel_DisableLegacyKeyCodeAndCharCode usehover" spellcheck="false" tabindex="0">
+      <div class="OutlineElement Ltr SCXW51230537 BCX2">
+        <p class="Paragraph SCXW51230537 BCX2" paraid="1259644909" paraeid="{3d6a427c-065e-4927-af3b-b187731d8093}{85}" style="font-weight: normal; font-style: normal; vertical-align: baseline; color: black; text-align: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-left: 0px; padding-right: 0px; text-indent: 0px">
+          <span class="NormalTextRun SCXW51230537 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">The process of mining is when “there is an attempt to add new blocks of transactions onto the blockchain. It is a network-wide competition where any </span><a class="Hyperlink SCXW51230537 BCX2" href="bookmark://node" target="_blank" rel="noreferrer noopener" style="text-decoration: none; color: black"><span class="NormalTextRun SCXW51230537 BCX2" data-ccp-charstyle="Hyperlink" style="text-decoration: underline; color: rgb(70, 120, 134); font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">node</span></a><span class="NormalTextRun SCXW51230537 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">&#xa0;&#xa0;on the network can work to try to add the next block. When a new block is mined, it is broadcast on the network, where each node independently verifies and adds it to their blockchain” (Walker, G., 2025). To be able to mine for cryptocurrencies, all that is needed is a device with enough computational power to handle the mathematical equations. In the current year, there is almost no amateur mining done – it is usually handed by companies or groups of people. “GPU mining maximises computational power by bringing together a set of GPUs under one rig, because it can take up to months to accrue even a small amount of profit” (Freeman Law., n.d.). The electrical and cooling costs need to also be considered by anyone wanting to take up crypto mining. The below image shows a “technician checking servers at Alt Design’s cryptocurrency mining operation in Japan” (Fukuoka, K., 2018).&#xa0;</span><span class="EOP SCXW51230537 BCX2" data-ccp-props="{}" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">&#xa0;</span>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
 </node>
-<node TEXT="Forking" POSITION="bottom_or_right" ID="ID_1614088160" CREATED="1755577849872" MODIFIED="1755742144579" HGAP_QUANTITY="-36.25 pt" VSHIFT_QUANTITY="-1883.99994 pt" CHILD_NODES_LAYOUT="AUTO" TEXT_SHORTENED="true">
-<node TEXT="Simplified" ID="ID_1497600500" CREATED="1755744389561" MODIFIED="1755744391789">
-<node TEXT="Hard Vs. Soft Fork" ID="ID_1541459881" CREATED="1755578698418" MODIFIED="1755742144579" TEXT_SHORTENED="true">
-<node TEXT="Soft Fork: Fork results in the old blockchain being compatible&#xa;&#xa;Hard Fork: Fork results in old blockchain being incompatible (new cryptocurrency)" ID="ID_683832082" CREATED="1755655783862" MODIFIED="1755742144579" TEXT_SHORTENED="true"/>
-</node>
-<node TEXT="What is it?" ID="ID_815542857" CREATED="1755591498522" MODIFIED="1755742144579" TEXT_SHORTENED="true">
-<node TEXT="Forking is the changing of blockchain rules,&#xa; - Results in a new blockchain and cryptocurrency to be created if changes too drastic&#xa; - Otherwise, behaves as software update" ID="ID_781126349" CREATED="1755591501508" MODIFIED="1755742144579" TEXT_SHORTENED="true"/>
+<node TEXT="Cryptocurrency Mining Rack" ID="ID_311596632" CREATED="1755829262048" MODIFIED="1755829395417">
+<hook URI="Cryptocurrency-simplified-technical%20combined_files/fa807dac-5a83-11e9-bbcc-84176f6dd1e7_image_hires_130343.JPG" SIZE="0.5" NAME="ExternalObject"/>
 </node>
 </node>
-<node TEXT="Technical" ID="ID_1859863016" CREATED="1755744413439" MODIFIED="1755744415142"/>
 </node>
 <node TEXT="Digital Currency Exchange" POSITION="top_or_left" ID="ID_943497150" CREATED="1755578245591" MODIFIED="1755742144579" CHILD_NODES_LAYOUT="AUTO" HGAP_QUANTITY="373.24999 pt" VSHIFT_QUANTITY="-148.5 pt" TEXT_SHORTENED="true"/>
 <node TEXT="Crypto Vs. Standard" POSITION="top_or_left" ID="ID_1807378675" CREATED="1755578262171" MODIFIED="1755742144579" CHILD_NODES_LAYOUT="AUTO" HGAP_QUANTITY="418.99999 pt" VSHIFT_QUANTITY="-138.75 pt" TEXT_SHORTENED="true">
@@ -562,6 +573,147 @@
 </node>
 </node>
 <node TEXT="Technical" ID="ID_867823127" CREATED="1755744426912" MODIFIED="1755744428601"/>
+</node>
+<node TEXT="Forking" POSITION="top_or_left" ID="ID_1614088160" CREATED="1755577849872" MODIFIED="1755830159984" HGAP_QUANTITY="1001.74997 pt" VSHIFT_QUANTITY="1096.49997 pt" CHILD_NODES_LAYOUT="AUTO" TEXT_SHORTENED="true">
+<node TEXT="Simplified" ID="ID_1497600500" CREATED="1755744389561" MODIFIED="1755744391789">
+<node TEXT="Hard Vs. Soft Fork" ID="ID_1541459881" CREATED="1755578698418" MODIFIED="1755742144579" TEXT_SHORTENED="true">
+<node TEXT="Soft Fork: Fork results in the old blockchain being compatible&#xa;&#xa;Hard Fork: Fork results in old blockchain being incompatible (new cryptocurrency)" ID="ID_683832082" CREATED="1755655783862" MODIFIED="1755742144579" TEXT_SHORTENED="true"/>
+</node>
+<node TEXT="What is it?" ID="ID_815542857" CREATED="1755591498522" MODIFIED="1755742144579" TEXT_SHORTENED="true">
+<node TEXT="Forking is the changing of blockchain rules,&#xa; - Results in a new blockchain and cryptocurrency to be created if changes too drastic&#xa; - Otherwise, behaves as software update" ID="ID_781126349" CREATED="1755591501508" MODIFIED="1755742144579" TEXT_SHORTENED="true"/>
+</node>
+</node>
+<node TEXT="Technical" ID="ID_1859863016" CREATED="1755744413439" MODIFIED="1755829516539" VGAP_QUANTITY="3 pt">
+<node ID="ID_224531143" CREATED="1755829436082" MODIFIED="1755829436082"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div id="WACViewPanel_ClipboardElement" contenteditable="false" class="WACEditing EditMode EditingSurfaceBody FireFox WACViewPanel_DisableLegacyKeyCodeAndCharCode usehover" spellcheck="false" tabindex="0">
+      <div class="OutlineElement Ltr SCXW136880197 BCX2">
+        <p class="Paragraph SCXW136880197 BCX2" paraid="264472225" paraeid="{3d6a427c-065e-4927-af3b-b187731d8093}{156}" style="font-weight: normal; font-style: normal; vertical-align: baseline; color: black; text-align: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-left: 0px; padding-right: 0px; text-indent: 0px">
+          <span class="NormalTextRun SCXW136880197 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">A “blockchain fork occurs when a change in the protocol of a blockchain network creates two new separate versions of the blockchain with different rules. It can occur when there is a software update incompatible with older versions, or a disagreement among network participants about the project’s direction” (</span><span class="NormalTextRun SpellingErrorV2Themed SCXW136880197 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">Shardeum</span><span class="NormalTextRun SCXW136880197 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">., 2022). There are different types&#xa0;of forks: Codebase forks, live blockchain forks, intentional forks, soft forks&#xa0;and hard forks.&#xa0;</span><span class="EOP SCXW136880197 BCX2" data-ccp-props="{}" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">&#xa0;</span>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_758923629" CREATED="1755829440907" MODIFIED="1755829440907"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div id="WACViewPanel_ClipboardElement" contenteditable="false" class="WACEditing EditMode EditingSurfaceBody FireFox WACViewPanel_DisableLegacyKeyCodeAndCharCode usehover" spellcheck="false" tabindex="0">
+      <div class="OutlineElement Ltr SCXW183615284 BCX2">
+        <p class="Paragraph SCXW183615284 BCX2" paraid="566322340" paraeid="{3d6a427c-065e-4927-af3b-b187731d8093}{170}" style="font-weight: normal; font-style: normal; vertical-align: baseline; color: black; text-align: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-left: 0px; padding-right: 0px; text-indent: 0px">
+          <span class="NormalTextRun SCXW183615284 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-weight: bold;">Codebase Fork</span><span class="NormalTextRun SCXW183615284 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">&#xa0;&#xa0;– This type of fork allows the “entire code of a particular software to be copied, so it can be modified, and published, creating a new blockchain with an empty ledger. Many of the current altcoins are now running on blockchains made in this way” (</span><span class="NormalTextRun SpellingErrorV2Themed SCXW183615284 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">GeeksforGeeks</span><span class="NormalTextRun SCXW183615284 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">., 2025).&#xa0;</span><span class="EOP SCXW183615284 BCX2" data-ccp-props="{}" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">&#xa0;</span>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_684827" CREATED="1755829448306" MODIFIED="1755829448306"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div id="WACViewPanel_ClipboardElement" contenteditable="false" class="WACEditing EditMode EditingSurfaceBody FireFox WACViewPanel_DisableLegacyKeyCodeAndCharCode usehover" spellcheck="false" tabindex="0">
+      <div class="OutlineElement Ltr SCXW11154642 BCX2">
+        <p class="Paragraph SCXW11154642 BCX2" paraid="322871354" paraeid="{3d6a427c-065e-4927-af3b-b187731d8093}{182}" style="font-weight: normal; font-style: normal; vertical-align: baseline; color: black; text-align: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-left: 0px; padding-right: 0px; text-indent: 0px">
+          <span class="NormalTextRun SCXW11154642 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-weight: bold;">Live Blockchain Fork </span><span class="NormalTextRun SCXW11154642 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">– “A blockchain running is divided into two further parts or two ways – Accidental Forks / Temporary Fork and Intentional Forks.&#xa0;</span><span class="EOP SCXW11154642 BCX2" data-ccp-props="{}" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">&#xa0;</span>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_824632252" CREATED="1755829452786" MODIFIED="1755829452786"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div id="WACViewPanel_ClipboardElement" contenteditable="false" class="WACEditing EditMode EditingSurfaceBody FireFox WACViewPanel_DisableLegacyKeyCodeAndCharCode usehover" spellcheck="false" tabindex="0">
+      <div class="OutlineElement Ltr SCXW165691782 BCX2">
+        <p class="Paragraph SCXW165691782 BCX2" paraid="1687523541" paraeid="{3d6a427c-065e-4927-af3b-b187731d8093}{190}" style="font-weight: normal; font-style: normal; vertical-align: baseline; color: black; text-align: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-left: 0px; padding-right: 0px; text-indent: 0px">
+          <span class="NormalTextRun SCXW165691782 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-weight: bold;">Accidental Fork / Temporary Fork</span><span class="NormalTextRun SCXW165691782 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">&#xa0;&#xa0;– “occurs when multiple miners attempt&#xa0;to mine a new block at nearly the&#xa0;same time, the entire network might not agree with the new block. Some can accept one block, while others accept the second block” (</span><span class="NormalTextRun SpellingErrorV2Themed SCXW165691782 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">GeeksforGeeks</span><span class="NormalTextRun SCXW165691782 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">., 2025).</span><span class="EOP SCXW165691782 BCX2" data-ccp-props="{}" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">&#xa0;</span>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1954289120" CREATED="1755829459882" MODIFIED="1755829459882"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div id="WACViewPanel_ClipboardElement" contenteditable="false" class="WACEditing EditMode EditingSurfaceBody FireFox WACViewPanel_DisableLegacyKeyCodeAndCharCode usehover" spellcheck="false" tabindex="0">
+      <div class="OutlineElement Ltr SCXW40879172 BCX2">
+        <p class="Paragraph SCXW40879172 BCX2" paraid="1491217234" paraeid="{3d6a427c-065e-4927-af3b-b187731d8093}{202}" style="font-weight: normal; font-style: normal; vertical-align: baseline; color: black; text-align: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-left: 0px; padding-right: 0px; text-indent: 0px">
+          <span class="NormalTextRun SCXW40879172 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-weight: bold;">Intentional Forks</span><span class="NormalTextRun SCXW40879172 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">&#xa0;&#xa0;– “occurs when the rules of the block chain have been changed, knowing the code and modifying it intentionally, giving rise to two new types of forks – soft and hard forks” (</span><span class="NormalTextRun SpellingErrorV2Themed SCXW40879172 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">GeeksforGeeks</span><span class="NormalTextRun SCXW40879172 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">., 2025).&#xa0;</span><span class="EOP SCXW40879172 BCX2" data-ccp-props="{}" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">&#xa0;</span>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_565861535" CREATED="1755829464567" MODIFIED="1755829464567"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div id="WACViewPanel_ClipboardElement" contenteditable="false" class="WACEditing EditMode EditingSurfaceBody FireFox WACViewPanel_DisableLegacyKeyCodeAndCharCode usehover" spellcheck="false" tabindex="0">
+      <div class="OutlineElement Ltr SCXW128730511 BCX2">
+        <p class="Paragraph SCXW128730511 BCX2" paraid="2007290077" paraeid="{3d6a427c-065e-4927-af3b-b187731d8093}{214}" style="font-weight: normal; font-style: normal; vertical-align: baseline; color: black; text-align: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-left: 0px; padding-right: 0px; text-indent: 0px">
+          <span class="NormalTextRun SCXW128730511 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-weight: bold;">Hard Fork </span><span class="NormalTextRun SCXW128730511 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">– “When the blockchain splits and two distinct competing chains form, each following its implementation, it results in two new separate cryptocurrencies” (Skrill., 2023).&#xa0;</span><span class="EOP SCXW128730511 BCX2" data-ccp-props="{}" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">&#xa0;</span>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1419650848" CREATED="1755829468447" MODIFIED="1755829468447"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div id="WACViewPanel_ClipboardElement" contenteditable="false" class="WACEditing EditMode EditingSurfaceBody FireFox WACViewPanel_DisableLegacyKeyCodeAndCharCode usehover" spellcheck="false" tabindex="0">
+      <div class="OutlineElement Ltr SCXW223240829 BCX2">
+        <p class="Paragraph SCXW223240829 BCX2" paraid="149787544" paraeid="{3d6a427c-065e-4927-af3b-b187731d8093}{222}" style="font-weight: normal; font-style: normal; vertical-align: baseline; color: black; text-align: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-left: 0px; padding-right: 0px; text-indent: 0px">
+          <span class="NormalTextRun SCXW223240829 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-weight: bold;">Soft Fork</span><span class="NormalTextRun SCXW223240829 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">&#xa0;&#xa0;– “When the protocol is altered in a backwards-compatible way. New rules are added that do not clash with old rules, meaning there is no connection between these new and old rules” (</span><span class="NormalTextRun SpellingErrorV2Themed SCXW223240829 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">GeeksforGeeks</span><span class="NormalTextRun SCXW223240829 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">., 2025). This prevents a hard fork from occurring.&#xa0;</span><span class="EOP SCXW223240829 BCX2" data-ccp-props="{}" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">&#xa0;</span>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Map of Historical Bitcoin Forks" ID="ID_15493472" CREATED="1755829518163" MODIFIED="1755829621060">
+<hook URI="Cryptocurrency-simplified-technical%20combined_files/A-Map-of-Bitcoin-Forks_V2.jpg" SIZE="0.6257962" NAME="ExternalObject"/>
+</node>
+</node>
 </node>
 </node>
 </map>
