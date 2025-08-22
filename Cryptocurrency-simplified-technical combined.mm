@@ -5,7 +5,7 @@
 </bookmarks>
 <node TEXT="Cryptocurrency" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="Freemind_Link_1513112588" CREATED="1153430895318" MODIFIED="1755742144581" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="10 pt" SHAPE_VERTICAL_MARGIN="10 pt" VGAP_QUANTITY="3 pt" CHILD_NODES_LAYOUT="AUTO" TEXT_SHORTENED="true">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<hook NAME="MapStyle" background="#fbf1c7ff">
+<hook NAME="MapStyle" background="#fbf1c7ff" zoom="0.6830134">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" auto_compact_layout="false" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/light_gruvbox_template.mm" fit_to_viewport="false" show_icons="BESIDE_NODES" showTagCategories="false"/>
     <tags category_separator="::"/>
 
@@ -370,7 +370,47 @@
 </node>
 </node>
 </node>
-<node TEXT="Technical" ID="ID_110699149" CREATED="1755744351173" MODIFIED="1755744353020"/>
+<node TEXT="Technical" ID="ID_110699149" CREATED="1755744351173" MODIFIED="1755744353020">
+<node ID="ID_1401915872" CREATED="1755828462783" MODIFIED="1755828462783"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div id="WACViewPanel_ClipboardElement" contenteditable="false" class="WACEditing EditMode EditingSurfaceBody FireFox WACViewPanel_DisableLegacyKeyCodeAndCharCode usehover" spellcheck="false" tabindex="0">
+      <div class="OutlineElement Ltr SCXW251158091 BCX2">
+        <p class="Paragraph SCXW251158091 BCX2" paraid="1241542399" paraeid="{00fa7d31-4e55-459f-8714-f7307fc7be3c}{79}" style="font-weight: normal; font-style: normal; vertical-align: baseline; color: black; text-align: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-left: 0px; padding-right: 0px; text-indent: 0px">
+          <span class="NormalTextRun SCXW251158091 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">The blockchain is a “database shared across a computer network’s </span><a class="Hyperlink SCXW251158091 BCX2" href="bookmark://node" target="_blank" rel="noreferrer noopener" style="text-decoration: none; color: black"><span class="NormalTextRun SCXW251158091 BCX2" data-ccp-charstyle="Hyperlink" style="text-decoration: underline; color: rgb(70, 120, 134); font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">nodes</span></a><span class="NormalTextRun SCXW251158091 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">” (Hayes, A). These blockchains are crucial, and without them, cryptocurrency would not be able to exist. These databases store data “in blocks that are linked in a chain. The data is chronologically consistent because it cannot be deleted&#xa0;or modified. As a result, anyone can use blockchain technology to create a ledger for tracking orders, payments, accounts&#xa0;and other transactions” (AWS., n.d.). This is the ideal environment for applications like cryptocurrency because it “guarantees data integrity and provides tamper-proof recording” (</span><span class="NormalTextRun SpellingErrorV2Themed SCXW251158091 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">Susnjara</span><span class="NormalTextRun SCXW251158091 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">, S., Smalley, I., n.d.).&#xa0;</span><span class="EOP SCXW251158091 BCX2" data-ccp-props="{}" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">&#xa0;</span>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1060812314" CREATED="1755828467389" MODIFIED="1755828467389"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div id="WACViewPanel_ClipboardElement" contenteditable="false" class="WACEditing EditMode EditingSurfaceBody FireFox WACViewPanel_DisableLegacyKeyCodeAndCharCode usehover" spellcheck="false" tabindex="0">
+      <div class="OutlineElement Ltr SCXW22013163 BCX2">
+        <p class="Paragraph SCXW22013163 BCX2" paraid="657340606" paraeid="{00fa7d31-4e55-459f-8714-f7307fc7be3c}{204}" style="font-weight: normal; font-style: normal; vertical-align: baseline; color: black; text-align: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-left: 0px; padding-right: 0px; text-indent: 0px">
+          <span class="NormalTextRun SCXW22013163 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">Businesses can benefit&#xa0;from using the blockchain because it “reduces risks, has lower compliance costs, cost-efficient transactions, automated and secure contract fulfilment” (McKinsey., 2024).&#xa0;&#xa0;Common applications of blockchain are “money transfers, financial exchanges, lending, insurance, real estate, securing personal information, voting, government benefits, securely sharing medical information, artist royalties, non-fungible </span><a class="Hyperlink SCXW22013163 BCX2" href="bookmark://tokens" target="_blank" rel="noreferrer noopener" style="text-decoration: none; color: black"><span class="NormalTextRun SCXW22013163 BCX2" data-ccp-charstyle="Hyperlink" style="text-decoration: underline; color: rgb(70, 120, 134); font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">tokens</span></a><span class="NormalTextRun SCXW22013163 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">, logistics and supply chain tracking, secure internet of things networks, data storage and gambling” (Levy, A., 2025). Some example enterprises that are implementing blockchain technologies are:&#xa0;</span><span class="EOP SCXW22013163 BCX2" data-ccp-props="{}" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">&#xa0;</span>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="From PWC" ID="ID_229552905" CREATED="1755828837956" MODIFIED="1755828867508">
+<hook URI="Cryptocurrency-simplified-technical%20combined_files/blockchain.svg" SIZE="0.44136462" NAME="ExternalObject"/>
+</node>
+</node>
 </node>
 <node TEXT="Ledger" POSITION="bottom_or_right" ID="ID_1105661100" CREATED="1755577869642" MODIFIED="1755742144578" CHILD_NODES_LAYOUT="AUTO" HGAP_QUANTITY="741.49998 pt" VSHIFT_QUANTITY="244.49999 pt" TEXT_SHORTENED="true">
 <node TEXT="Simplified" ID="ID_502023717" CREATED="1755744366767" MODIFIED="1755744369144">
@@ -379,9 +419,31 @@
 <node TEXT="Stores information about all transactions:&#xa; - Can only be added to&#xa; - Cannot be modified or deleted" ID="ID_1228241959" CREATED="1755590564769" MODIFIED="1755742144578" TEXT_SHORTENED="true"/>
 </node>
 </node>
-<node TEXT="Technical" ID="ID_108296738" CREATED="1755744369321" MODIFIED="1755744370835"/>
+<node TEXT="Technical" ID="ID_108296738" CREATED="1755744369321" MODIFIED="1755828954471" VGAP_QUANTITY="3 pt">
+<node ID="ID_1492993189" CREATED="1755828902292" MODIFIED="1755828955980" VSHIFT_QUANTITY="99 pt"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <div id="WACViewPanel_ClipboardElement" contenteditable="false" class="WACEditing EditMode EditingSurfaceBody FireFox WACViewPanel_DisableLegacyKeyCodeAndCharCode usehover" spellcheck="false" tabindex="0">
+      <div class="OutlineElement Ltr SCXW42712781 BCX2">
+        <p class="Paragraph SCXW42712781 BCX2" paraid="1863365284" paraeid="{3d6a427c-065e-4927-af3b-b187731d8093}{11}" style="font-weight: normal; font-style: normal; vertical-align: baseline; color: black; text-align: left; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-left: 0px; padding-right: 0px; text-indent: 0px">
+          <span class="NormalTextRun SCXW42712781 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">The ledger within a blockchain is a “digitised, decentralised, public ledger in which any account is maintained&#xa0;simply by mentioning its source. In contrast to a regular public or common ledger, ledgers in the blockchain discourage a centralised vision, and add transparency, data integrity&#xa0;and other benefits” (</span><span class="NormalTextRun SpellingErrorV2Themed SCXW42712781 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">ScalingParrots</span><span class="NormalTextRun SCXW42712781 BCX2" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">., n.d.).&#xa0;</span><span class="EOP SCXW42712781 BCX2" data-ccp-props="{}" style="font-size: 11pt; line-height: 18.3458px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;">&#xa0;</span>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
+</richcontent>
 </node>
-<node TEXT="Mining" POSITION="bottom_or_right" ID="ID_926227091" CREATED="1755577864274" MODIFIED="1755742144579" HGAP_QUANTITY="331.24999 pt" VSHIFT_QUANTITY="-244.49999 pt" CHILD_NODES_LAYOUT="AUTO" TEXT_SHORTENED="true">
+<node TEXT="Comparison of Distributed Ledger and Blockchain" ID="ID_1812746922" CREATED="1755828937538" MODIFIED="1755828957577" VSHIFT_QUANTITY="9.75 pt">
+<hook URI="Cryptocurrency-simplified-technical%20combined_files/Distributed-Ledger-vs-Blockchain-CFTE-853x1024.png" SIZE="0.7033998" NAME="ExternalObject"/>
+</node>
+</node>
+</node>
+<node TEXT="Mining" POSITION="bottom_or_right" ID="ID_926227091" CREATED="1755577864274" MODIFIED="1755828960606" HGAP_QUANTITY="202.99999 pt" VSHIFT_QUANTITY="-465.74998 pt" CHILD_NODES_LAYOUT="AUTO" TEXT_SHORTENED="true">
 <node TEXT="Simplified" ID="ID_1205166005" CREATED="1755744378296" MODIFIED="1755744381174">
 <node TEXT="Companies" POSITION="bottom_or_right" ID="ID_143159579" CREATED="1755578682621" MODIFIED="1755742144579" TEXT_SHORTENED="true">
 <node TEXT="Some companies engage in mining with thousands of rigs in a warehouse&#xa; - Rigs kept at optimal temp to maintain efficiency&#xa; - Removing dust helps rigs stay at a low temp" ID="ID_480062792" CREATED="1755591313148" MODIFIED="1755742144578" TEXT_SHORTENED="true"/>
